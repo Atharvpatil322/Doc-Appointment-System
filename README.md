@@ -1,4 +1,4 @@
-# Doc-Appointment-System
+# Doctor-Appointment-System
 
 This project was bootstrapped with Create React App.
 
