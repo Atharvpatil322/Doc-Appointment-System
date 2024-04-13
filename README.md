@@ -18,6 +18,14 @@ This is a comprehensive doctor appointment system built using the MERN stack (Mo
 
 - **MongoDB Database**: Utilized MongoDB as the database to efficiently store appointment details, doctors' availability, and patient medical records, ensuring flexibility and scalability.
 
+
+## Video :
+
+
+https://github.com/Atharvpatil322/Doctor-Appointment-System/assets/127306088/31771b17-9128-4309-aba7-316ab53e6ca2
+
+
+
 ## Screenshots :
 1.
 ![Screenshot 2024-04-11 204839](https://github.com/Atharvpatil322/Doctor-Appointment-System/assets/127306088/0e523f77-181d-4f77-9038-091cb7ee7f4c)
